@@ -85,7 +85,7 @@ public class ConBoard {
     }
 
     /** returns 0 if no player has won (yet)
-     * otherwise returns the number of the player that has three in a row
+     * otherwise returns the number of the player that has four in a row
      */
     public int checkWinning() {
         // TODO
